@@ -1,1 +1,1 @@
-The official **chrx* github org.
+The official github organization of [chrx](https://github.com/chrxer/chrx).
