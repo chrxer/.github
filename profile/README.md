@@ -12,8 +12,6 @@ We're not sure, but are open for suggestions:)
 
 
 ##### Suggestion 1
-`/ˈkræk.sɜr/`
-> because you're fixing the 'cracks' in Chromium and it's amusing to have a playful reference in a school project!
 <p>
    <a href="https://github.com/Vinyzu">
        <kbd>
@@ -24,8 +22,16 @@ We're not sure, but are open for suggestions:)
     <a style="font-size: 0.8em" href="https://github.com/Vinyzu">@vinyzu</a>
 </p>
 
-![](profile/assets/chrxer_matthew_en_us.mp3)
+[`/ˈkræk.sɜr/`](https://ipa-reader.com/?text=%2F%CB%88kr%C3%A6k.s%C9%9Cr%2F&voice=Matthew)
 
+> because you're fixing the 'cracks' in Chromium and it's amusing to have a playful reference in a school project!
+
+
+<video controls="" autoplay="" name="media">
+    <source src="https://github.com/chrxer/.github/blob/main/profile/assets/chrxer_matthew_en_us.mp3?raw=true" type="audio/mp3">
+</video>
 
 ## Sponsors
 None yet:(
+
+
