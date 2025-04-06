@@ -11,7 +11,7 @@ The official github organization of [chrx](https://github.com/chrxer/chrx).
 We're not sure, but are open for suggestions:)
 
 
-##### Suggestion 1
+##### Suggestions
 <p>
    <a href="https://github.com/Vinyzu">
        <kbd>
@@ -22,9 +22,9 @@ We're not sure, but are open for suggestions:)
     <a style="font-size: 0.8em" href="https://github.com/Vinyzu">@vinyzu</a>
 </p>
 
-[`/ˈkræk.sɜr/`](https://ipa-reader.com/?text=%2F%CB%88kr%C3%A6k.s%C9%9Cr%2F&voice=Matthew)
 
-> because you're fixing the __cracks__ in Chromium and it's amusing to have a playful reference in a [school project](https://github.com/chrxer/safe-chrx-proto/)!
+
+> [`/ˈkræk.sɜr/`](https://ipa-reader.com/?text=%2F%CB%88kr%C3%A6k.s%C9%9Cr%2F&voice=Matthew), because you're fixing the __cracks__ in Chromium and it's amusing to have a playful reference in a [school project](https://github.com/chrxer/safe-chrx-proto/)!
 
 
 <video controls="" autoplay="" name="media">
