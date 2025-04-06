@@ -24,7 +24,7 @@ We're not sure, but are open for suggestions:)
 
 [`/ˈkræk.sɜr/`](https://ipa-reader.com/?text=%2F%CB%88kr%C3%A6k.s%C9%9Cr%2F&voice=Matthew)
 
-> because you're fixing the 'cracks' in Chromium and it's amusing to have a playful reference in a school project!
+> because you're fixing the __cracks__ in Chromium and it's amusing to have a playful reference in a [school project](https://github.com/chrxer/safe-chrx-proto/)!
 
 
 <video controls="" autoplay="" name="media">
