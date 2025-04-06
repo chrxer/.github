@@ -24,12 +24,7 @@ We're not sure, but are open for suggestions:)
 
 
 
-> [`/ˈkræk.sɜr/`](https://ipa-reader.com/?text=%2F%CB%88kr%C3%A6k.s%C9%9Cr%2F&voice=Matthew), because you're fixing the __cracks__ in Chromium and it's amusing to have a playful reference in a [school project](https://github.com/chrxer/safe-chrx-proto/)!
-
-
-<video controls="" autoplay="" name="media">
-    <source src="https://github.com/chrxer/.github/blob/main/profile/assets/chrxer_matthew_en_us.mp3?raw=true" type="audio/mp3">
-</video>
+> [`/ˈkræk.sɜr/`](https://ipa-reader.com/?text=%2F%CB%88kr%C3%A6k.s%C9%9Cr%2F&voice=Matthew), because you're fixing the _cracks_ in Chromium and it's amusing to have a playful reference in a [school project](https://github.com/chrxer/safe-chrx-proto/)!
 
 ## Sponsors
 None yet:(
